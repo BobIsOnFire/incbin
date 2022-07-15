@@ -79,7 +79,7 @@
 #    define INCBIN_MACRO "\tINCBIN"
 #  endif
 #else
-#  define INCBIN_MACRO ".incbin"
+#  define INCBIN_MACRO ".incbin "
 #endif
 
 #ifndef _MSC_VER
